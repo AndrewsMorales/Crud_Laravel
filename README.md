@@ -12,21 +12,26 @@ se cambia el codigo por lo siguiente:
     use Illuminate\Support\Facades\Schema;
 
     class AppServiceProvider extends ServiceProvider
+    
     {
         /**
          * Register any application services.
          */
+         
         public function register(): void
         {
             //
         }
+        
         /**
          * Bootstrap any application services.
          */
+         
         public function boot()
         {
             Schema::defaultStringlength(191);
         }
+        
     }
 - Esto se realiza para evitar errores cuando se migra la base y se ejecuta es muy importante
  
