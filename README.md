@@ -5,7 +5,7 @@
  
 - Cuando se instala jetstream toca agregar lo siguiente en "Crud_Laravel\app\Providers\AppServiceProvider.php"
 se cambia el codigo por lo siguiente:
- <?php
+
     namespace App\Providers;
 
     use Illuminate\Support\ServiceProvider;
