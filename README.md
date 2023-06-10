@@ -14,6 +14,7 @@ se cambia el codigo por lo siguiente:
     class AppServiceProvider extends ServiceProvider
     
     {
+    
         /**
          * Register any application services.
          */
