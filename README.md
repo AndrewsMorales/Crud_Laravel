@@ -43,3 +43,9 @@ Luego ejecutar "php artisan key:generate"
 luego "npm install && npm run build"
 luego migrar la base de datos con "php artisan migrate"
 y por ultimo "php artisan serve" para probar el funcionamiento
+
+
+![Imagen de WhatsApp 2023-06-11 a las 00 14 35](https://github.com/AndrewsMorales/Crud_Laravel/assets/120028117/333b136f-6a28-49a9-a26c-a06c2c631b74)
+![Imagen de WhatsApp 2023-06-11 a las 00 14 59](https://github.com/AndrewsMorales/Crud_Laravel/assets/120028117/a4aa0f50-dc45-43f2-99e3-e3f50188ea2a)
+![Imagen de WhatsApp 2023-06-11 a las 00 15 15](https://github.com/AndrewsMorales/Crud_Laravel/assets/120028117/ce4d131c-6a69-4d8d-9c08-c6acbf0426f7)
+![Imagen de WhatsApp 2023-06-11 a las 00 15 33](https://github.com/AndrewsMorales/Crud_Laravel/assets/120028117/2e597fc0-9d8b-416e-9454-fc2993b74508)
