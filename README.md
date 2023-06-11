@@ -1,5 +1,5 @@
 # Crud_Laravel
- Se realiza una crud en laravel aparte de una gestion de usuarios con permisos por roles.
+ Se realiza una crud en laravel se implementa una plantilla adminlte y se hace un inicio de sesion y validacion de datos con jetstream.
     
  --//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
  
