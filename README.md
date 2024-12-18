@@ -1,5 +1,5 @@
 # Crud_Laravel
- Se realiza una crud en laravel se implementa una plantilla adminlte y se hace un inicio de sesion y validacion de datos con jetstream.
+ Este proyecto consiste en la implementación de un CRUD (Crear, Leer, Actualizar, Eliminar) en Laravel, utilizando la plantilla AdminLTE para el diseño de la interfaz de usuario. Además, se integra Jetstream para la gestión de inicio de sesión y validación de datos, asegurando una experiencia de usuario fluida y segura.
     
  --//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
  
